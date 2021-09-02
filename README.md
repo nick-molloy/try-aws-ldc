@@ -1,5 +1,5 @@
 This is a try out project for AWS.
-Primary owner/contributor L.Caprio
+Primary owner/contributor L.Caprio, Community School of Naples
 
 ## Available Scripts
 
